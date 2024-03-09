@@ -1,4 +1,6 @@
 I am learning to use git. I have practiced cloning, pulling, adding, commiting, pushing. I have used SSH authentication also.
 Right now, I am editing example.txt in my terminal via nano, a text editor. When I am done, I will commit the change and push my updated repository to my github acccount online. All the best to me.
 
-edit:: it worked! I'm doiong this edit in Github online. i will pull it to my local directory and view it in nano again.
+edit:: it worked! I'm doing this edit in Github online. i will pull it to my local directory and view it in nano again.
+
+last edit (maybe):: it worked! pushing back for the last time.
